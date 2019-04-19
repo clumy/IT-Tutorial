@@ -20,8 +20,8 @@ _I highly recommend you spend a few minutes reading my tutorial article. Moreove
 + It has an very extensive range of modules and community support.
 + It is very easy language to start, and it has low barrier to entry.
 
-[Click Me to Know More](https://www.learnpython.org/)
-
+[Get to Know More](https://en.wikipedia.org/wiki/Python_(programming_language))
+[Start to Learn](https://www.learnpython.org/)
 
 
 
