@@ -70,6 +70,6 @@ _I highly recommend you spend a few minutes reading my tutorial article. Moreove
 
 ---
 
-**For more information, here is a short video to directly differences in data science languages.**
+**For more information, here is a short video to directly show differences in data science languages.**
 
-<a href="https://www.youtube.com/watch?v=k2RqjYCTt6k"/></a>
+<a href="https://www.youtube.com/watch?v=k2RqjYCTt6k" /></a>
