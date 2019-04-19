@@ -14,6 +14,15 @@ _I highly recommend you spend a few minutes reading my tutorial article. Moreove
 
 ---
 
+### Python
+![alt text](https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiumcz-l9vhAhVPKawKHfzXC9oQjRx6BAgBEAU&url=https%3A%2F%2Fgithub.com%2FFortAwesome%2FFont-Awesome%2Fissues%2F6693&psig=AOvVaw26kACxvHIGfFUE4xLA0kCs&ust=1555729831589287)
++ It is free!
++ It has an very extensive range of modules and community support.
++ It is very easy language to start, and it has low barrier to entry.
+
+
+
+
 
 
 
