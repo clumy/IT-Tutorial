@@ -21,6 +21,7 @@ _I highly recommend you spend a few minutes reading my tutorial article. Moreove
 + It is very easy language to start, and it has low barrier to entry.
 
 [Get to Know More](https://en.wikipedia.org/wiki/Python_(programming_language))
+
 [Start to Learn](https://www.learnpython.org/)
 
 
