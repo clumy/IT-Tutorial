@@ -29,6 +29,18 @@ _I highly recommend you spend a few minutes reading my tutorial article. Moreove
 ### R 
 ![alt text](https://www.techcentral.ie/wp-content/uploads/2017/01/R_Language_Logo_web-290x166.jpg)
 + It is free!
-+ It has pacages for every quantitative and statistical application
++ It has pacages for every quantitative and statistical application.
++ Data visualization is a key strength in R language.
 
+[Get to Know More](https://www.r-project.org/about.html)
+
+[Start to Learn](https://www.datacamp.com/courses/free-introduction-to-r)
+
+---
+
+### SQL
+![alt text](https://cdn-images-1.medium.com/max/600/1*EbgPavDL5Ed4-wRYcJkAGQ.png)
++ It is very efficient at manipulating databases.
++ It is qucik language which has high speed retrieve a large amount of data sets.
++ No coding requirment which means that you can easily manage database without writing substantial code.
 
