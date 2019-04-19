@@ -52,4 +52,12 @@ _I highly recommend you spend a few minutes reading my tutorial article. Moreove
 
 ### MATLAB
 ![alt text](https://cdn-images-1.medium.com/max/600/0*DTBZ2-LziFY0wjSQ.)
++ MATLAB has a lot of great inbuilt plotting capabilities.
++ It is widely used within many field such as Statistics, Pyyscis, and Engineering.
++ The graphical output is optimized for interaction.
 
+[Get to Know More](https://www.mathworks.com/products/matlab.html)
+
+[Start to Learn](https://www.mathworks.com/learn/tutorials/matlab-onramp.html?s_cid=learn_ONRAMP_BAN)
+
+---
