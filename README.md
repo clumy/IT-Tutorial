@@ -1,3 +1,1 @@
-## D
-### D
-#### D
+# Tips of Learning Data Science
