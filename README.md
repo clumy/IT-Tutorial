@@ -72,4 +72,4 @@ _I highly recommend you spend a few minutes reading my tutorial article. Moreove
 
 **For more information, here is a short video to directly show differences in data science languages.**
 
-<a href="https://www.youtube.com/watch?v=k2RqjYCTt6k" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToSAJSwexFF7pvFsxacM92Cos4CO9hKPO-S0qD7BLMUOMkkEi6" alt="Click Me" width="200" height="150" border="10" /></a>
+<a href="https://www.youtube.com/watch?v=k2RqjYCTt6k" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToSAJSwexFF7pvFsxacM92Cos4CO9hKPO-S0qD7BLMUOMkkEi6" alt="Click Me" width="40" height="50" border="10" /></a>
