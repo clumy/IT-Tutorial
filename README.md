@@ -15,7 +15,7 @@ _I highly recommend you spend a few minutes reading my tutorial article. Moreove
 ---
 
 ### Python
-![alt text](https://cdn.changelog.com/uploads/icons/topics/b9/icon_small.png?v=63684172610)
+![alt text](https://cdn-images-1.medium.com/max/600/0*rIG4CQCeK0xKQjrE.png)
 + It is free!
 + It has an very extensive range of modules and community support.
 + It is very easy language to start, and it has low barrier to entry.
