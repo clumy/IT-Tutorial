@@ -24,7 +24,11 @@ _I highly recommend you spend a few minutes reading my tutorial article. Moreove
 
 [Start to Learn](https://www.learnpython.org/)
 
+---
 
-
+### R 
+![alt text](https://www.techcentral.ie/wp-content/uploads/2017/01/R_Language_Logo_web-290x166.jpg)
++ It is free!
++ It has pacages for every quantitative and statistical application
 
 
