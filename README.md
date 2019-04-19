@@ -14,6 +14,8 @@ _I highly recommend you spend a few minutes reading my tutorial article. Moreove
 
 ---
 
+---
+
 ### Python
 ![alt text](https://cdn-images-1.medium.com/max/600/0*rIG4CQCeK0xKQjrE.png)
 + It is free!
@@ -23,6 +25,8 @@ _I highly recommend you spend a few minutes reading my tutorial article. Moreove
 [Get to Know More](https://en.wikipedia.org/wiki/Python_(programming_language))
 
 [Start to Learn](https://www.learnpython.org/)
+
+---
 
 ---
 
@@ -38,6 +42,8 @@ _I highly recommend you spend a few minutes reading my tutorial article. Moreove
 
 ---
 
+---
+
 ### SQL
 ![alt text](https://cdn-images-1.medium.com/max/600/1*EbgPavDL5Ed4-wRYcJkAGQ.png)
 + It is very efficient at manipulating databases.
@@ -47,6 +53,8 @@ _I highly recommend you spend a few minutes reading my tutorial article. Moreove
 [Get to Know More](https://www.guru99.com/introduction-to-database-sql.html)
 
 [Start to Learn](https://www.w3schools.com/sql/)
+
+---
 
 ---
 
@@ -61,3 +69,7 @@ _I highly recommend you spend a few minutes reading my tutorial article. Moreove
 [Start to Learn](https://www.mathworks.com/learn/tutorials/matlab-onramp.html?s_cid=learn_ONRAMP_BAN)
 
 ---
+
+**For more information, here is a short video to directly differences in data science languages.**
+
+<a href="https://www.youtube.com/watch?v=k2RqjYCTt6k"/></a>
